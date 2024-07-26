@@ -13,17 +13,8 @@ Welcome to my collection of free IPTV links! This repository contains a personal
 - **Updates:** Regular updates to keep the links active and add new content.
 
 ## Usage
-
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/yourusername/Free-IPTV-Links.git
-   ```
-2. **Navigate to the Directory:**
-   ```bash
-   cd Free-IPTV-Links
-   ```
-3. **Open the Playlist:**
-   - Use your preferred IPTV player to open the `playlist.m3u` file.
+ **Open the Playlist:**
+   - Use your preferred IPTV player to open the `mamostv.m3u` file.
 
 ## Contribution
 
