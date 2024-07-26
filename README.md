@@ -8,10 +8,6 @@ Welcome to my collection of free IPTV links! This repository contains a personal
 - **Playlist File:** A pre-configured M3U playlist file for easy import into your favorite IPTV player.
 - **Updates:** Regular updates to keep the links active and add new content.
 
-## Usage
- **Open the Playlist:**
-   - Use your preferred IPTV player to open the `https://github.com/muhamkor/MAMOSTV/blob/main/mamostv.m3u` link.
-
 ## Contribution
 
 Contributions are welcome! If you have any new links or improvements, feel free to submit a pull request. Please ensure that the links are free and publicly accessible.
