@@ -14,7 +14,7 @@ Welcome to my collection of free IPTV links! This repository contains a personal
 
 ## Usage
  **Open the Playlist:**
-   - Use your preferred IPTV player to open the `mamostv.m3u` file.
+   - Use your preferred IPTV player to open the `https://github.com/muhamkor/MAMOSTV/blob/main/mamostv.m3u` link.
 
 ## Contribution
 
