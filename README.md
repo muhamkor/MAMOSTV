@@ -24,6 +24,3 @@ Contributions are welcome! If you have any new links or improvements, feel free 
 
 This repository is for educational purposes only. The links provided are publicly available on the internet. I do not host or own any of the content. Use the links at your own discretion.
 
----
-
-Feel free to customize further as needed!
