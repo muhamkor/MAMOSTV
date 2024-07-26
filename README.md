@@ -1,4 +1,4 @@
-# Free IPTV Links Collection
+# IPTV Links Collection
 
 Welcome to my collection of free IPTV links! This repository contains a personally curated playlist of IPTV links that I have discovered online, reflecting my viewing preferences. Feel free to explore and enjoy the content!
 
